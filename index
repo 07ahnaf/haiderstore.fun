@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Haider Network Store</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Ranks</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h1>Haider Network Store</h1>
+            <p>Enjoy more in Haider Network by purchasing our amazing ranks!</p>
+            <button>Buy Now</button>
+        </section>
+        <section class="ranks">
+            <h2>Ranks</h2>
+            <ul>
+                <li>
+                    <h3>Rank 1</h3>
+                    <p>Description of Rank 1</p>
+                    <button>Buy</button>
+                </li>
+                <li>
+                    <h3>Rank 2</h3>
+                    <p>Description of Rank 2</p>
+                    <button>Buy</button>
+                </li>
+                <!-- Add more ranks here -->
+            </ul>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
